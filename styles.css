@@ -1,1 +1,5 @@
-//insert css styling for your chrome extension here
+body {
+  width: 400px;
+  height: 400px;
+  padding: 0px;
+}
