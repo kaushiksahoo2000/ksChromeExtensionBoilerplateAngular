@@ -8,3 +8,6 @@ Go to <chrome://extensions> in your chrome browser, and enable **developer mode*
 Then, click **Load unpacked extension...**
 
 The chrome extension should show up next to your address bar
+
+*cerulean.css is a [custom Bootstrap theme](https://bootswatch.com/cerulean/), feel free to keep it or delete it, only added for convenience*
+
